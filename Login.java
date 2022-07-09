@@ -11,7 +11,7 @@ import com.nic.visual.Menu;
 
 /**
  *
- * @author INSPIRON 15
+ * 
  */
 public class Login extends javax.swing.JFrame {
 
