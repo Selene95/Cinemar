@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author INSPIRON 15
+ * 
  */
 public final class Ticket extends javax.swing.JFrame {
 
